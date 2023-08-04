@@ -1,4 +1,4 @@
 # IAM (Identity and Access Management) 
-Full project https://people.rit.edu/yz3917/capstone_project/index.html
+Full project https://universalstarr.github.io/IAM/IAM.html
 
 ![IAM overview](IAM_overview.png "IAM_overview")
